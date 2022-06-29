@@ -1,0 +1,6 @@
+a=333
+b=555
+buff=a
+a=b
+b=buff
+print(a,b)
