@@ -1,0 +1,9 @@
+a="1"
+c="+"
+b=a+c+a+c+a+c+a+c+a
+print(b,"=5")
+
+a="1"
+b="7"
+c="*"
+print(a+c+b,"=7")
