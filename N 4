@@ -1,0 +1,5 @@
+=int(input("Введите дату:"))
+date={
+"yaer":"2022","month":"06","day":"29", "18":"time:11:42"}
+a=date.values()
+print(a)
