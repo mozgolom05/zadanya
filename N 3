@@ -11,3 +11,6 @@ t=8
 y=4
 U=c+b+v+n+q+w+e+r+t+y
 print(U)
+
+
+print(4+7+2+9+4+6+1+0+8+4)
